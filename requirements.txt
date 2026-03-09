@@ -1,0 +1,5 @@
+﻿pandas
+numpy
+yfinance
+streamlit
+streamlit-autorefresh
